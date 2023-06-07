@@ -1,0 +1,15 @@
+{
+    "@@locale": "kk",
+    "cards": "Карталар",
+    "transactions": "Транзакциялар",
+    "home": "Басты бет",
+    "errorGeneral": "Сәтсіздік :-(",
+    "inputErrorGeneral": "Енгізуді тексеріңіз/Енгізген мәтінді",
+    "inputErrorPassword": "Құпиясөзді енгізіңіз",
+    "inputErrorPasswordIsShort": "Кемінде 8 таңба",
+    "inputErrorPasswordLetters": "Латын әріптері",
+    "inputErrorPasswordMatch": "Құпиясөздер сәйкес келмейді",
+    "inputErrorPasswordNumbers": "Бір цифрдан кем емес",
+    "inputErrorPhone": "Телефон нөмірін тексеріңіз",
+    "inputErrorPhoneIsEmpty": "Телефон нөмірін енгізіңіз"
+}

@@ -1,0 +1,17 @@
+{
+  "@@locale": "ru",
+  "cards": "Cards",
+  "transactions": "Transactions",
+  "home": "Home",
+  "errorGeneral": "Something went wrong :-(",
+  "inputErrorGeneral": "Check the input",
+  "inputErrorOsiNameIsShort": "At least 3 characters",
+  "inputErrorOsiNameisEmpty": "Enter the name",
+  "inputErrorPassword": "Enter the password",
+  "inputErrorPasswordIsShort": "At least 8 characters",
+  "inputErrorPasswordLetters": "Latin letters",
+  "inputErrorPasswordMatch": "Passwords don't match",
+  "inputErrorPasswordNumbers": "At least one digit",
+  "inputErrorPhone": "Check the phone number",
+  "inputErrorPhoneIsEmpty": "Enter the phone number"
+}

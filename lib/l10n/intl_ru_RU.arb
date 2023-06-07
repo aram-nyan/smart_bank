@@ -1,0 +1,17 @@
+{
+  "@@locale": "ru",
+  "cards": "Карты",
+  "transactions": "Транзакции",
+  "home": "Главная",
+  "errorGeneral": "Что-то пошло не так :-(",
+  "inputErrorGeneral": "Проверьте ввод",
+  "inputErrorOsiNameIsShort": "Не менее 3 символов",
+  "inputErrorOsiNameisEmpty": "Введите наименование",
+  "inputErrorPassword": "Введите пароль",
+  "inputErrorPasswordIsShort": "Не менее 8 символов",
+  "inputErrorPasswordLetters": "Латинские буквы",
+  "inputErrorPasswordMatch": "Пароли не совпадают",
+  "inputErrorPasswordNumbers": "Не менее одной цифры",
+  "inputErrorPhone": "Проверьте номер",
+  "inputErrorPhoneIsEmpty": "Введите номер"
+}
